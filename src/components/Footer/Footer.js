@@ -11,7 +11,7 @@ const Footer = () => {
       <hr />
       <div className="footer">
         <div className="social-links">
-          <img src={Github} alt="" />
+          <a href="https://github.com/key403"><img src={Github} alt="" /></a>
           <img src={Instagram} alt="" />
           <img src={LinkedIn} alt="" />
         </div>
