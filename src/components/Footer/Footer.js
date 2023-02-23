@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="footer">
         <div className="social-links">
           <a href="https://github.com/key403"><img src={Github} alt="" /></a>
-          <img src={Instagram} alt="" />
+          <img src={Instagram} alt="instagram" />
           <img src={LinkedIn} alt="" />
         </div>
        
