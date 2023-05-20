@@ -230,6 +230,7 @@
   }
   .figures {
     gap: 1rem;
+    justify-content: center;
   }
   .figures>div>span:nth-child(1) {
     font-size: large;
